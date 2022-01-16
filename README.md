@@ -6,7 +6,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rabinphaiju&count_private=true&show_icons=true&langs_count=8&layout=compact&hide=BLade,Hack,Java,Objective-C,Shell,Ruby,Starlark,SCSS)
